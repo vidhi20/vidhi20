@@ -24,7 +24,7 @@ I'm looking for full-time Associate Product Manager and Product Manager roles st
 |---|---|---|
 | [LLM Tutor](https://llm-as-tutor.monthtest970509.workers.dev/) | Evaluates four LLM tutors with a 15-criterion rubric, then turns the findings into five design fixes. 5-person team, UX Design Awards 2026 New Talent nominee. | UX research, LLM evaluation |
 | [FinRAG](https://github.com/vidhi20/FinRag) | Answers questions about 10-K filings with cited responses, using hybrid search and reranking. | Python, FAISS, BM25, Mistral, Gemini |
-| [GrocerIQ](https://github.com/vidhi20/GrocerIQ) | Sorts 50K synthetic grocery customers into seven RFM segments, recommends products, and cuts recipe matching from 12 minutes to under two. | Python, scikit-learn, TF-IDF, Streamlit |
+| [GrocerIQ](https://github.com/vidhi20/GrocerIQ) ([live demo](https://groceriq-nemepcjw4avochcjvh8e2m.streamlit.app/)) | Sorts 50K synthetic grocery customers into seven RFM segments, recommends products, and cuts recipe matching from 12 minutes to under two. | Python, scikit-learn, TF-IDF, Streamlit |
 | [Fulfillment Performance Analysis](https://github.com/vidhi20/Fulfillment-Performance-Analysis) | Finds where late e-commerce orders come from across 99,441 orders, and recommends three operational fixes. | SQL, DuckDB |
 | [TradeLens](https://github.com/vidhi20/Tradelens) | Analyzes equity risk and return, the Treasury yield curve, and market valuation from four independent data sources. | Python, Streamlit, SEC EDGAR API |
 | [AI Cloud Peer Analysis](https://github.com/vidhi20/AI-Cloud-Peer-Analysis) | Compares CoreWeave and Nebius on Q2 2026 growth, margins, capex, and contracted demand in a comps model and one-page brief. | Excel, financial analysis |
