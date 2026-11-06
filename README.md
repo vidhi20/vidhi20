@@ -52,6 +52,7 @@ Outside the roadmap: Women in Product, event management, travel, and dance.
 - Databricks Certified Generative AI Engineer Associate
 - UX Design Awards 2026, New Talent Nominee (LLM Tutor)
 - Spotlight Award, Jio Platforms, 2024
+- Coauthor, [Patient and Provider Perceptions of AI-Enabled Remote Patient Monitoring in Behavioral Health Care](https://doi.org/10.2196/preprints.116190), JMIR Preprints, 2026 (not yet peer-reviewed)
 
 ---
 
